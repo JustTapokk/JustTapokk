@@ -5,6 +5,7 @@
 </header>
 <body>
   <br>
+    <b>ABOUT ME</b>
     <ul>
       <li>Name -> Ilya</li>
       <li>Pseudos -> Void, Tapok</li>
