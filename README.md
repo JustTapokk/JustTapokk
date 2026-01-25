@@ -11,12 +11,10 @@
       <li>Pseudos -> Void, Tapok</li>
       <li>Country -> Russia</li>
       <li>Coding languages -> C++, Python, Lua</li>
-      <li>OS -> Win_11, Win_10, Linux_Arch (for fun only)</li>
+      <li>OS -> Win_11, Win_10 (main), Linux_Arch (for fun only)</li>
+      <li>He/him/his</li>
     </ul>
-  <br>
-    <p>He/him/his</p>
-  <br>
     <p>Learning -> ML, GameDev</p>
-    <p>Already can work with -> Front-end, Telegram_bots_developing</p>
+    <p>Can already work with -> Front-end, Telegram_bots_developing</p>
 </body>
 </html>
